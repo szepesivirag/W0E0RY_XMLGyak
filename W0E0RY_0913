@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+
+<html lang=""hu">
+
+<head>
+
+    <title>Weblapm készítése</title>
+    <meta charset="UTF-8">
+</head>
+
+<body style="background:tranparent; color:aliceblue; font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; font-size:10pt">
+    <br><br>
+
+    <b> Üdzözlet az oldalon!</b>
+
+    <br><br>
+
+    Ezt a weblapot az adatkezelés XML tantárgyon készítettem el.
+
+    <br><br><br><br>
+
+    <br>Forrás<br>
+
+    <br>
+    <br>A feladatban ,egjelölt források:<br>
+    https://webfejlesztes.gtportal.eu/?f0=1_urlapok
+    https://webfejlesztes.gtportal.eu/?f0=PHP
+    http://html5doctor.com/html5-forms-introduction-and-new-attributes
+
+    <br>
+
+
+
+</body>
+</html>
