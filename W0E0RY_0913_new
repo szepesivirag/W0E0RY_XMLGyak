@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>Kezdőlap</title>
+        <link rel="stylesheet" href="../Style/style.css">
+        
+    </head>
+
+    <body>
+
+        <header>
+            <h1 >Kezdőlap</h1>
+        </header>
+
+        <main>
+            <section>
+                <a href="Kezdolap.html">
+                    <img src="../Images/infoepulet.jpg" alt="Informaitkai Intézet" width="40%" height="45%" />
+                </a>
+            </section>
+            
+            <div class="kezdolapDiv">
+                    <a href="OOP.html">Objektum Orientált Programozás</a>
+                    <a href="VALSZAM.html">Valószínűség számítás</a>
+                    <a href="OS.html">Operációs rendszerek</a>
+            </div>
+           
+            <article>
+                <p>Üdvözöllek az oldalon!</p>
+            </article>
+            
+        </main>
+    </body>
+</html>
